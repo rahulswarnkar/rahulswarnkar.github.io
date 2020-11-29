@@ -1,0 +1,15 @@
+# Site settings
+title: Rahul Swarnkar
+email: rahulswarnkar@hotmail.com
+description: >-
+  Thoughts, summaries and experiences by Rahul Swarnkar.
+baseurl: "" 
+url: ""
+twitter_username: rahulswarnkar
+github_username:  rahulswarnkar
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
