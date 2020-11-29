@@ -38,7 +38,7 @@ The extension is not enabled globally. It's recommended that it is enabled for f
   <figcaption>Deno extension settings</figcaption>
 </figure>
 
-Enabling it will add a json entry as one of the follwing:
+Enabling it will add a json entry as one of the following:
 
 - in workspace file:
 
