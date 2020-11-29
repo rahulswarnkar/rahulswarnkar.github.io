@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developer setup for programming with 🦕 Deno"
-date: 2020-11-28 23:07:06 +0000
+date: 2020-11-22 23:00:00 +0000
 tags: deno vscode typescript
 categories: programming deno
 ---
