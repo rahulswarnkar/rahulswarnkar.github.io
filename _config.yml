@@ -13,3 +13,5 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+exclude:
+  - README.md
